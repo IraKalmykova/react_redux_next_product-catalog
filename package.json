@@ -21,7 +21,7 @@
     "@mate-academy/stylelint-config": "*",
     "eslint": "^6.1.0",
     "@zeit/next-css": "^1.0.1",
-    "lint-staged": "^8.1.5",
+    "lint-staged": "^13.1.0",
     "stylelint": "^10.0.0"
   }
 }
